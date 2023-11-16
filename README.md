@@ -1,7 +1,7 @@
-# azure-functions-python-samples
+*!azure-functions-python-samples
 Azure Functions Python Sample Codes
 
-![](https://github.com/yokawasa/azure-functions-python-samples/raw/master/img/azure-function-x-python.png)
+ [](https://github.com/yokawasa/azure-functions-python-samples/raw/master/img/azure-function-x-python.png)
 
 Table of Contents
 - [azure-functions-python-samples](#azure-functions-python-samples)
@@ -62,3 +62,4 @@ This is a collection of Python function samples on Azure Functions 2.X. For a co
 
 ## Contributing
 Bug reports and pull requests are welcome on GitHub at https://github.com/yokawasa/azure-functions-python-samples
+ 
